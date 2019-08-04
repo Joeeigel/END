@@ -4,7 +4,10 @@ When we last left our heroes they had set sail from **Xesco** on a sailing ship 
 
 After sailing for several weeks, the party noticed land ahead, after sailing along the coast for a suitable place to dock, they came across a large walled port, guarded by statues of Umberlee, goddess of the sea. Once docked the group asked a sailor where is a good place for people new to the city, who told them as they look like a party of adventurers, **The Yawning Portal** could be what they're after.
 
-The party got to The Yawning Portal reasonably quickly following the directions from the sailor. As they enter, the atmosphere is one of joy and glee, it seems as though a party of adventurers are about to lower themselves into a large pit in the centre of the taproom and are just checking their supplies one last time before taking the plunge. The party grabs a table, a barmaid comes over and offers them ale and food. Shortly after their food and drinks arrive, a shout eclipses the usual sounds of drunken adventurer song and bards strumming their lutes off-key: *"Ya pig! Like killin' me mates do ya?"* Quickly glancing over the party manages to see a 7-foot tall half-orc take a wild swinging punch from a male human, who's head is completely shaven and covered in eye-shaped tattoos, and to his back stand four other humans ready to back him up. 
+The party got to The Yawning Portal reasonably quickly following the directions from the sailor. As they enter, the atmosphere is one of joy and glee, it seems as though a party of adventurers are about to lower themselves into a large pit in the centre of the taproom and are just checking their supplies one last time before taking the plunge. The party grabs a table, a barmaid comes over and offers them ale and food. Shortly after their food and drinks arrive, a shout eclipses the usual sounds of drunken adventurer song and bards strumming their lutes off-key: 
+>"Ya pig! Like killin' me mates do ya?"  
+
+Quickly glancing over the party manages to see a 7-foot tall half-orc take a wild swinging punch from a male human, who's head is completely shaven and covered in eye-shaped tattoos, and to his back stand four other humans ready to back him up. 
 
 [The scene at The Yawning Portal](https://i.imgur.com/ZbSyjT5.jpg)
 
@@ -12,8 +15,8 @@ A crowd quickly forms around the brawl about to ensue. The half-orc takes a quic
 
 Most patrons start to flip any furniture near them to give themselves cover and protect themselves from the swooping stirges. One of them swoops down in the crowd where Fundin in stood, however just before it manages to get a bite on him, his old friend Kurt emerges from the crowd and casts a protection spell on him, distracting him from his war hammer swing, but also saving him from having his blood sucked. One of the stirges manages to stick itself into the back of Bog, who starts punching himself in the shoulder to try and squash it, which after a few attempts he does. Adfiel is trying to keep the troll back from the crowd, and as it takes a swing at her, a gigantic bolt of lightning with a monstrous thunder crack comes in through the ceiling and strikes the troll, knocking it back and getting it tangled in the rigging above the pit. While it is tangled up it tries to take a bite at Bog, who punches its tooth out, and Fundin gets the killing blow with his war hammer, crushing its skull.
 
-Once all the commotion of the troll and the bar fight had settled down, somebody pushes against the tide of patrons and up to you, saying "You be adventurers, am I right? I could use your help. Let's find a table to talk, shall we?" The figure who approached you strokes his moustache, adjusts his floppy hat, and tightens his scarf. "**Volothamp Geddarm**, chronicler, wizard, and celebrity, at your service. I trust you've noted the violence in our fair city these past tendays. I haven't seen so much blood since my last visit to Baldur's Gate! But now I fear I have misplaced a friend amid this odious malevolence. 
-
+Once all the commotion of the troll and the bar fight had settled down, somebody pushes against the tide of patrons and up to you, saying "You be adventurers, am I right? I could use your help. Let's find a table to talk, shall we?" The figure who approached you strokes his moustache, adjusts his floppy hat, and tightens his scarf. 
+>"**Volothamp Geddarm**, chronicler, wizard, and celebrity, at your service. I trust you've noted the violence in our fair city these past tendays. I haven't seen so much blood since my last visit to Baldur's Gate! But now I fear I have misplaced a friend amid this odious malevolence.   
 "My friend's name is **Floon Blagmaar**. He's got more beauty than brains, and I worry he took a bad way home a couple nights ago and was kidnapped-or worse. If you agree to track him down with all due haste, I can offer you ten dragons apiece now, and I can give you each ten times that when you find Floon. May I prevail upon you in my hour of need?"
 
 After a bit of questioning, the party discovers Floon is a handsome man with wavy red-blonde hair. When Volo last saw him he was dressed in a princely garb, and they were drinking at **The Skewered Dragon**, a dark bawdy tavern in the Dock Ward.
@@ -26,7 +29,8 @@ Tall, densely packed tenements leave most of the neighbourhood in shadow at grou
 
 The party is cautious of the store, initially deciding against going in, however, Kurt's curiosity gets the better of him. A cloud of lavender-scented purple smoke trails out of the shop's door as he peers inside. Every wall is painted purple, and every dusty knickknack on the shelves is dyed a deep violet. The hairless old gnome sitting cross-legged on the counter wears plum-coloured robes. His cheeks are decorated with nine purple face-painted eyes. 
 
-The gnome lowers a pipe and exhales a cloud of lavender smoke before raising a hand. "Hail and well met! Come browse the shelves of the most curious curiosity shop in the world!"
+The gnome lowers a pipe and exhales a cloud of lavender smoke before raising a hand. 
+>"Hail and well met! Come browse the shelves of the most curious curiosity shop in the world!"
 
 *GM Note: This shop is my favourite in the game because of how ridiculous his wares are*
 
