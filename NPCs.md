@@ -4,10 +4,10 @@
 **Bald headed Eye Tattoo Guy**  
 Started a fight in *The Yawning Portal* with a half orc, claiming she kept killing his buddies. He had several other people with him, and was eager to fight. Once the Barkeep had ordered them out, he then left and headed back to one of the Xanathar's Guild Hideouts, where the party then dispatched of him in Session 2.
 
-**Yagra**  
+**[Yagra](https://i.imgur.com/j2pObt0.png)**  
 A half orc who was being hurassed by members of the Xanathar guild in the first session in *The Yawning Portal*. After she had knocked one of the Xanathar Guild unconscious she left *The Yawning Portal*. 
 
-**Volothamp Geddarm**  
+**[Volothamp Geddarm](https://i.imgur.com/aFM9njs.png)**  
 Volo to his friends, Author, Scholar, and most importantly, Drinking buddy of *Floon* - First met the party in *The Yawning Portal* where he requested their help to find his lost pal, and offered them several hundred gold as a reward.
 
 **Floon Blagmaar**  
